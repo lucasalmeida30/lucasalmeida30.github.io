@@ -1,0 +1,51 @@
+body{
+    background-color: #4F6D7A;
+}
+
+h1{
+    color: #482C3D;
+    line-height: 1em;
+    font-size: 4em;
+    font-family: 'Mate SC', serif;   
+}
+
+.menu{
+    background-color: #482C3D;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 5px;
+    border-radius: 5px;
+    color: #D3D5D4;
+    font-size: 19px;
+}
+
+h2{
+    color: #A2C5AC;
+    margin-top: 1em;
+    font-style: bolder;
+    font-family: 'Major Mono Display', monospace;
+
+}
+
+#trybe{
+    color: #482C3D;  
+}
+
+img{
+    margin-top: 1em;
+}
+
+p{
+    color: #D3D5D4;
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+li{
+    color: #D3D5D4;
+}
+
+h3{
+    color: #482C3D;
+}

@@ -39,13 +39,15 @@ h1{
 
 img{
     margin-top: 3em;
+
 }
 
 .sub-titulo{
     background-color: #D3D5D4;
     color: #482C3D;
-    width: 50%;
-    padding-left: 10px;
+    width: 12%;
+    padding-left: 6px;
+    border-radius: 7px;
 }
 
 p{
@@ -55,16 +57,47 @@ p{
 
 }
 
-li{
-    color: #D3D5D4;
+ul{
+    color: #A2C5AC;
+    background-color: #482C3D;
+    font-size: 22px;
+    line-height: 35px;
+    width: 25%;
+    border-radius: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
-
-
-
 
 div {
     display: inline-block;
     vertical-align: top;
     margin-left: 14px;
     margin-top: 25px;
+}
+
+.lista-contato{
+    text-decoration: none;
+    color: #A2C5AC;
+    background-color: #482C3D;
+    padding: 3px;
+}
+
+#contato{
+    background-color: #D3D5D4;
+    color: #482C3D;
+    width: 9%;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+
+.voltar-topo{
+    text-decoration: none;
+    color: #D3D5D4;
+    text-align: center;
+    display: block;
+    font-size: 21px;
+    background-color: #482C3D;
+    width: 260px;
+    margin: auto;
+    border-radius: 10px;
 }
